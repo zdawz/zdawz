@@ -1,16 +1,19 @@
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-<!--
-**ZDaws/ZDaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Me = {
+  name: "Zach Dawson",
+  almaMater: "Gustavus Adolphus College",
+  interests: [
+    "Software 🛠️",
+    "Swimming 🏊‍♂️",
+    "The Outdoors 🏕️",
+    "Beer 🍺",
+    "Board Games 🎲",
+    "Video Games 🎮",
+    "Marvel 🦸",
+    "Star Wars 👽", // Obviously :)
+  ],
+  dogPerson: true,
+};
+```
