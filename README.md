@@ -1,21 +1,23 @@
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello There" />
-</p>
+</div>
 
 ```javascript
-const Me = {
+const zach = {
   name: "Zach Dawson",
-  almaMater: "Gustavus Adolphus College",
+  title: "Software Engineer II | Full Stack Developer",
+  frameworkOfChoice: "React",
   interests: [
     "Software 🛠️",
-    "Swimming 🏊‍♂️",
+    "Tech 📱",
     "The Outdoors 🏕️",
-    "Beer 🍺",
-    "Board Games 🎲",
-    "Video Games 🎮",
+    "Exercise 🏊‍♂️➕🏃➕🏋️",
+    "Games 🎲➕🎮",
     "Marvel 🦸",
     "Star Wars 👽", // Obviously :)
+    "Beer 🍺",
   ],
+  almaMater: "Gustavus Adolphus College",
   dogPerson: true,
 };
 ```
